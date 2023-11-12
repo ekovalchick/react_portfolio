@@ -1,0 +1,11 @@
+canvas{
+    display:block;
+    /* make sure W&H is properly calc. (no scrll bars wil/fit screen) */
+    
+    filter: blur(10px) contrast(1px);
+   
+    /* creates a liquid behavior for the metaballs */
+   
+    position: absolute;
+  
+}
